@@ -54,7 +54,7 @@
     <div class="flowers">🌸🌺🌷🌻🌹💐</div>
     
     <!-- Imagen de la enfermera desde Google Drive -->
-    <img src="https://drive.google.com/drive/folders/1W9NJ-JHzoaePjwN2rBpr46os3gysRDSL">
+    <img src="https://drive.google.com/uc?export=view&id=1W9NJ-JHzoaePjwN2rBpr46os3gysRDSL" alt="Imagen especial para la enfermera" style="width: 80%; max-width: 500px; border-radius: 10px;">
     
     <p class="message">Hoy celebramos tu dedicación, tu esfuerzo y todo lo que haces cada día por cuidar a los demás. ¡Gracias por ser una increíble enfermera! Aunque aún no hayas terminado tu carrera, sé que el futuro te tiene reservadas cosas maravillosas. ¡Muy pronto serás licenciada y el mundo conocerá tu pasión y tu vocación!</p>
     <p>Cada día que pasas aprendiendo, practicando y cuidando, estás construyendo un futuro brillante. Este día no es solo una celebración de lo que ya has logrado, sino también de todo lo que estás por alcanzar. Te admiro profundamente por tu esfuerzo constante y tu dedicación.</p>
